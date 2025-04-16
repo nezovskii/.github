@@ -36,8 +36,8 @@
 
 <p align="center">
   <!-- TODO: Replace [YOUR_GITHUB_USERNAME] with your actual GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nezovskii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezovskii&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nezovskii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&include_orgs=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezovskii&layout=compact&langs_count=8&theme=radical&include_orgs=true"/>
 </p>
 
 <!-- You can also add the snake contribution graph here if you like! -->
