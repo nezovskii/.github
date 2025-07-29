@@ -17,18 +17,3 @@
 </p>
 
 ---
-
-### 💡 Skills & Focus Areas <small>(Example - please customize!)</small>
-
-<p align="left">
-  <!-- TODO: Add relevant skills using DevIcons: https://devicon.dev/ -->
-  <!-- Examples: AI Strategy, ML Concepts, Cloud, Specific frameworks if applicable -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
-  <!-- Add more relevant icons based on your expertise -->
-</p>
-
----
-<!-- You can also add the snake contribution graph here if you like! -->
-<!-- See: https://github.com/Platane/snk -->
