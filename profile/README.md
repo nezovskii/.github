@@ -6,7 +6,7 @@
 <h3 align="center">CEO @Actvox LLC. | Building the Future with AI Workforce</h3>
 
 <p align="center">
-  Passionate about leveraging Artificial Intelligence to transform industries and build innovative solutions. Leading the team at Bridge 23 Inc. to create the next generation of AI-driven workforce tools. 🚀
+  Passionate about leveraging Artificial Intelligence to transform industries and build innovative solutions. Leading the team at Actvox LLC. to create the next generation of AI-driven workforce tools. 🚀
   <!-- TODO: Customize this section further with specific mission/vision if desired -->
 </p>
 
