@@ -8,7 +8,7 @@
 - 📊 Trading & markets on the side
 - 🧬 Biohacking enthusiast (the evidence-based kind)
 - 💬 Ask me about **LangGraph / Claude API / MCP Tools / TypeScript**
-- 🌍 Bilingual: **EN / RU**
+- 🌍 Trilingual: **EN / RU / ID**
 
 ### Skills
 
