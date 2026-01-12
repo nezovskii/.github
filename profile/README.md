@@ -1,42 +1,38 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&text=Hey%20👋&animation=fadeIn&fontSize=35&fontAlignY=40&fontColor=ffffff)
+# Hi 👋, I'm Konstantin
 
-# Konstantin Nezovskii
+### CEO [@Actvox](https://actvox.com) — Building AI Workforce
 
-**CEO [@Actvox](https://actvox.com)** — Building AI Workforce
+- 🔭 Currently building **AI-native apps** with agent architectures
+- 🧠 Deep diving into **LLM OS** concepts — agents, memory, autonomy
+- 🖥️ Building desktop apps with **Tauri + AI backends**
+- 📊 Trading & markets on the side
+- 🧬 Biohacking enthusiast (the evidence-based kind)
+- 💬 Ask me about **LangGraph / Claude API / MCP Tools / TypeScript**
+- 🌍 Bilingual: **EN / RU**
 
----
+### Skills
 
-### What I'm Building
+<p>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://tauri.app/"><img src="https://tauri.app/logo.svg" width="36" height="36" alt="Tauri" /></a>
+</p>
 
-🤖 **AI-native applications** with agent architectures  
-🧠 **LLM OS concepts** — autonomous agents, memory systems, self-improvement loops  
-🖥️ **Desktop apps** with Tauri + intelligent backends  
-⛓️ **Web3** — cross-chain systems, Internet Computer
+### Socials
 
-### Tech I Work With
-```
-AI/Agents:   LangGraph • Claude API • MCP Tools • Agent frameworks
-Frontend:    React • TypeScript • Tailwind
-Backend:     Convex • Node.js
-Desktop:     Tauri
-Infra:       Linux • NVIDIA/CUDA • DGX
-```
+<p>
+  <a href="https://www.linkedin.com/in/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://github.com/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
 
-### Selected Projects
+### Stats
 
-| Project | Description |
-|---------|-------------|
-| [IChessAI](https://github.com/bridge-23/IChessAI) | Mini-LLM chess engine (C++) |
-| [Gate23](https://github.com/bridge-23/Gate23) | Cross-chain sales system — 🏆 ETHSeoul24 Winner |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezovskii&layout=compact&hide=html)
 
-### Beyond Code
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nezovskii&show_icons=true&count_private=true)
 
-- 📊 Trading & financial markets
-- 🧬 Health optimization (evidence-based biohacking)
-- 🌍 Bilingual: EN / RU
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nezovskii)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nezovskii)
-[![Website](https://img.shields.io/badge/Actvox-667eea?style=flat&logo=safari&logoColor=white)](https://actvox.com)
+![Profile Views](https://komarev.com/ghpvc/?username=nezovskii)
