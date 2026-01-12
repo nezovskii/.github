@@ -25,7 +25,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://twitter.com/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/nezovskii"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" /></a>
   <a href="https://github.com/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
