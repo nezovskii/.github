@@ -18,7 +18,7 @@
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://tauri.app/"><img src="https://tauri.app/logo.svg" width="36" height="36" alt="Tauri" /></a>
+  <a href="https://tauri.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="36" height="36" alt="Tauri" /></a>
 </p>
 
 ### Socials
@@ -29,10 +29,6 @@
   <a href="https://github.com/nezovskii"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
-### Stats
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezovskii&layout=compact&hide=html)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nezovskii&show_icons=true&count_private=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nezovskii)
+![Profile Views](https://komarev.com/ghpvc/?username=nezovskii&color=blueviolet)
