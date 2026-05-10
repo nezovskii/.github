@@ -1,6 +1,6 @@
 # Hi, I'm Konstantin 👋
 
-📍 **Bali, Indonesia** | 🤖 **Building the AI Workforce** | 🚀 **CEO [@Actvox](https://actvox.com)**
+📍 **Tbilisi, Georgia** | 🤖 **Building the AI Workforce** | 🚀 **CEO [@Actvox](https://actvox.com)**
 
 <p>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
