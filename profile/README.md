@@ -21,12 +21,12 @@ Professional artist turned code architect — after years with brushes, pixels a
 
 ## Current Projects
 
-- 🤖 **[Actvox](https://actvox.com)** – AI Agents for Team Management; automate planning and task execution
-- 🏥 **[JU-MED](https://ju-med.com)** – Trusted medical assistance in Germany, Austria & Switzerland
-- 🥗 **[Ekaterina Klein](https://ekaterinaklein.com)** – Nutritionist & Biohacker platform; personalized health guidance
-- 🧘 **[Mandala Estate](https://mandala-estate.vercel.app)** – Bali wellness retreat booking platform
-- 🔮 **[Cosmic Oracle](https://cosmic-oracle.vercel.app)** – AI-powered tarot & astrology
-- 🎌 **[Terakoya Dojo](https://terakoya-dojo.vercel.app)** – Aikido platform
+- **[Actvox](https://actvox.com)** – AI Agents for Team Management; automate planning and task execution
+- **[JU-MED](https://ju-med.com)** – Trusted medical assistance in Germany, Austria & Switzerland
+- **[Ekaterina Klein](https://ekaterinaklein.com)** – Nutritionist & Biohacker platform; personalized health guidance
+- **[Mandala Estate](https://mandala-estate.vercel.app)** – Bali wellness retreat booking platform
+- **[Cosmic Oracle](https://cosmic-oracle.vercel.app)** – AI-powered tarot & astrology
+- **[Terakoya Dojo](https://terakoya-dojo.vercel.app)** – Aikido platform
 
 ---
 
